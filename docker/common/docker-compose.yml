@@ -1,0 +1,6 @@
+version: '2'
+services:
+  licensingservice:
+      image: yungshun317/licensing-service:latest
+      ports:
+        - "8080:8080"

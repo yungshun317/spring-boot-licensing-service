@@ -1,12 +1,11 @@
-package yungshun.chang.springbootlicensingservice;
+package yungshun.chang.licensingservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootLicensingServiceApplication {
-
+public class LicensingServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootLicensingServiceApplication.class, args);
+        SpringApplication.run(LicensingServiceApplication.class, args);
     }
 }

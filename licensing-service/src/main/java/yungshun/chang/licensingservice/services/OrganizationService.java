@@ -1,4 +1,4 @@
-package yungshun.chang.springbootlicensingservice.services;
+package yungshun.chang.licensingservice.services;
 
 import org.springframework.stereotype.Service;
 

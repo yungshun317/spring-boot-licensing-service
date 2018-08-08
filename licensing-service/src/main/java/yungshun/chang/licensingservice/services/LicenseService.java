@@ -1,7 +1,7 @@
-package yungshun.chang.springbootlicensingservice.services;
+package yungshun.chang.licensingservice.services;
 
 import org.springframework.stereotype.Service;
-import yungshun.chang.springbootlicensingservice.model.License;
+import yungshun.chang.licensingservice.model.License;
 
 import java.util.UUID;
 

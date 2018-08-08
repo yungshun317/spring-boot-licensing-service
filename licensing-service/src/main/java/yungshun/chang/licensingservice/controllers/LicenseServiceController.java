@@ -1,4 +1,4 @@
-package yungshun.chang.springbootlicensingservice.controllers;
+package yungshun.chang.licensingservice.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.ResponseStatus;
-import yungshun.chang.springbootlicensingservice.model.License;
-import yungshun.chang.springbootlicensingservice.services.LicenseService;
+import yungshun.chang.licensingservice.model.License;
+import yungshun.chang.licensingservice.services.LicenseService;
 
 @RestController
 @RequestMapping(value="v1/organizations/{organizationId}/licenses")

@@ -1,4 +1,4 @@
-package yungshun.chang.springbootlicensingservice.model;
+package yungshun.chang.licensingservice.model;
 
 public class Organization {
     String id;

@@ -23,3 +23,29 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.DS_Store/
+/target
+
+/target
+/target/
+**/target/
+
+.DS_Store
+~                                                                               
+".gitignore" 22L, 194C                                        1,1           All
+
